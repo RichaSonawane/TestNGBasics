@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Failed suite [Build_01]">
+  <test name="Build_01_result(failed)">
+    <classes>
+      <class name="testNGConcepts.AnnotationsBasics1">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="cde"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- testNGConcepts.AnnotationsBasics1 -->
+    </classes>
+  </test> <!-- Build_01_result(failed) -->
+</suite> <!-- Failed suite [Build_01] -->
